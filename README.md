@@ -19,4 +19,4 @@ Provision a local Docker container using Terraform.
 A running Nginx container on port 8080 was provisioned and destroyed using IaC principles.
 
 ## Screenshots
-
+is given above below.
